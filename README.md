@@ -11,4 +11,4 @@ Pour la réalisation de notre workshop nous avons choisis de faire un chat en te
 - Express.js
 - Socket.io
 
-![](https://www.noelshack.com/2021-06-4-1613056925-chatnode.png)
+![Ceci est un exemple d’image](https://image.noelshack.com/fichiers/2021/06/4/1613056925-chatnode.png)
