@@ -10,4 +10,5 @@ Pour la réalisation de notre workshop nous avons choisis de faire un chat en te
 - Node.js
 - Express.js
 - Socket.io
-- [Example Design Chat](https://www.bypeople.com/css-chat/)
+
+![](https://media.giphy.com/media/3oFzlUxAjIc3JvQvJK/giphy.gif)
